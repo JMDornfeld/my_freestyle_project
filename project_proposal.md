@@ -1,34 +1,35 @@
 #Project Planning
-#Jaclyn Dornfeld and Vincent Hamalainen will be working together
-#
+Jaclyn Dornfeld and Vincent Hamalainen will be working together
+
 #Primary User
-#Cost conscious drivers
-#
+Cost conscious drivers
+
 #User Needs Statement
-#As a cost conscious driver, I need a quicker way to find the cheapest gas near me or on my designated route. It would also be nice if the program could know where I am without me having to provide a lot of information.
-#
+As a cost conscious driver, I need a quicker way to find the cheapest gas near me or on my designated route. It would also be nice if the program could know where I am without me having to provide a lot of information.
+
 #Existing Capabilities
-#Currently, I can use applications to help find the closest gas station on a mass scale (such as waze or google maps) but this application is designed purely based on location and price in real time.
+Currently, I can use applications to help find the closest gas station on a mass scale (such as waze or google maps) but this application is designed purely based on location and price in real time.
+
 #As-Is Process Description
-#
-#Option 1
-#1.      Plan out trip route prior to leaving
-#2.      Research best priced and convenient gas stations
-#3.      Incorporate gas stops into route
-#4.      Leave for the trip
-#
-#Option 2
-#1.      Start trip
-#2.      Decide that I need gas
-#3A. Use google maps / waze (or current route calculating app of choice) to find the nearest gas station
-#3B. Use the road signs to find the nearest gas station without price information
-#
+
+Option 1
+ 1.      Plan out trip route prior to leaving
+ 2.      Research best priced and convenient gas stations
+ 3.      Incorporate gas stops into route
+ 4.      Leave for the trip
+
+Option 2
+ 1.      Start trip
+ 2.      Decide that I need gas
+ 3A. Use google maps / waze (or current route calculating app of choice) to find the nearest gas station
+ 3B. Use the road signs to find the nearest gas station without price information
+ 
 #To-Be Process Description
-#
-#1.      User goes our new app (name TBD) and inputs their location (working out zip code or address), fuel type etc.
-#2.      Application provides gas stations nearby based on cost
-#3.      User selects best gas station for their route
-#4.      End state vision: loyalty program and additional features
+ 
+1.      User goes our new app (name TBD) and inputs their desired radius and fuel type
+2.      Application provides gas stations nearby based on cost
+3.      User selects best gas station for their route
+4.      End state vision: Google Maps pulls up the best 
 #
 #Information Requirements
 #
