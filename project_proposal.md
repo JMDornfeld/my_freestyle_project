@@ -57,6 +57,7 @@ APIs and Web Service Requirements
 
 # Python Package Requirements
 This application requires the requests package to issue HTTP requests to that API. pytest is also required for for testing purposes.
+Planning to leverage two API keys, dotenv or the bash application would be required to ensure API key privacy.
 
 # Hardware Requirements:
 No hardware requirements are necessary at this time. In the future, this application could be deployed to a public server but that is not in the scope of this initial project.
