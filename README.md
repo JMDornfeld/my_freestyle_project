@@ -1,6 +1,10 @@
 # my_freestyle_project
 Jaclyn Dornfeld and Vince Hamalainen 
 
+# Project Proposal 
+
+This respository was created to support the project that can be found under (https://github.com/JMDornfeld/my_freestyle_project/blob/master/project_proposal.py) to initate the freestyle project idea. 
+
 # Gas Prices By Location
 
 A command-line Python application which processes user inputs, user geo location and the mygas prices API from the [IP STACK API](http://api.ipstack.com/) and [MYGAS API] (http://api.mygasfeed.com/stations/radius/) to provide the best gas station option based on price and distance and to read the users location based on the computers location.
