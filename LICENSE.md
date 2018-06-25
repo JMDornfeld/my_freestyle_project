@@ -27,6 +27,6 @@ SOFTWARE.
 We are proud of our project and grateful to the mygas API as well as the Geo API key. Feel free to use this code repository as the basis for any work product you submit, as long as you either:
 
   + a) officially "fork" this repository from the GitHub online interface, or
-  + b) include an attribution link back to this main repository (e.g. "adapted from source: ADD IN OUR GITHUB LINK").
+  + b) include an attribution link back to this main repository (e.g. "adapted from source: https://github.com/JMDornfeld/my_freestyle_project").
 
 Thank you and enjoy!
