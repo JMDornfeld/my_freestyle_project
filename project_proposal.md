@@ -61,3 +61,8 @@ Planning to leverage two API keys, dotenv or the bash application would be requi
 
 # Hardware Requirements:
 No hardware requirements are necessary at this time. In the future, this application could be deployed to a public server but that is not in the scope of this initial project.
+
+# Omitted Unit Tests
+We chose not to include any unit tests, which would surprise you if you could see how much time we both spent trying to understand them better.
+
+It was our understanding that we are supposed to break our code down into functions and write code to automatically verify that each function is returning the desired results. Our issue was that we could not figure out how to apply that concept to the main function of our code: delivering the cheapest gas stations in the desired radius. The desired results would be dependent on factors other than the user inputs and we were unsure of how to verify if they were correct, at least through a unit test. For all the other functions, we are mostly verifying user inputs and displaying results. For these functions, unit tests seemed excessive.
