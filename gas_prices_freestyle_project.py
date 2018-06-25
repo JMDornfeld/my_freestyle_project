@@ -116,3 +116,6 @@ a = station_prices[station_choice]["lat"]
 b = station_prices[station_choice]["lng"]
 final_url = f"https://www.google.com/maps/dir/?api=1&origin={latitude},{longitude}&destination={a},{b}&travelmode=driving"
 webbrowser.open(final_url, new=2)
+
+def enlarge(i):
+    return i * 100
