@@ -81,7 +81,6 @@ if __name__ == '__main__':
     sort_by = "price"
 
     request_url = f"http://api.mygasfeed.com/stations/radius/{latitude}/{longitude}/{distance}/{fuel_type}/{sort_by}/{mygas_api_key}.json?"
-    print(request_url)
     
     response = requests.get(request_url)
 
