@@ -57,10 +57,10 @@ Run the recommendation script:
 
 ```sh
 # Homebrew-installed Python 3.x on Mac OS, not using Pipenv:
-python3 app/final_prices_by_location.py
+python3 app/gas_prices_by_location.py
 
 # All others, including Pipenv on Mac or Windows:
-python app/final_prices_by_location.py
+python app/gas_prices_by_location.py
 ```
 
 ## [License](LICENSE.md)
